@@ -6,7 +6,7 @@ You can access the live demo of this project [here](https://passwordgeneratorbys
 
 ## Features
 
-- Generate passwords of varying lengths (from 8 to 128 characters).
+- Generate passwords of varying lengths (from 8 to 50 characters).
 - Choose to include uppercase letters, lowercase letters, numbers, and special characters in generated passwords.
 - Copy generated passwords to the clipboard with a single click.
 - Responsive design for desktop and mobile devices.
